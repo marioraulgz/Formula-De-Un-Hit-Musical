@@ -8,7 +8,9 @@
 
 - [Introducción](#introduccion)
 - [Planteamiento](#planteamiento)
-- [Spotipy]("spotipy")
+- [Spotipy y la API de Spotify]("spotipy")
+- [Árbol de decisiones]("decision_tree")
+- [Streamlit]("streamlit")
 - [Enlaces externos](#enlaces_externos)
 
 <a name="introduccion"></a>
@@ -26,11 +28,19 @@ Esta es una propuesta para los servicios de streaming de música, para los compo
 
 Se usó la API que ofrece Spotify ya que es más complicado trabajar con los datos en crudo, con anterioridad se hizo el procesamiento hasta cierto punto. Para simplificas las solicitudes GET a la API de Spotify, nos apoyaremos en Spotipy, una librería que sirve de interfaz para el API. Ahora están en un repositorio de GitHub, dar clic [aquí](https://github.com/marioraulgz/SpotifyBEDU-LaRevancha/blob/main/Postworks/Datasets/data_delimited.csv).
 
+<a name="decision_tree"></a>
+## Árbol de decisiones
+
+
+<a name="streamlit"></a>
+## Streamlit
+
 <a name="enlaces_externos"></a>
-### Enlaces externos
+## Enlaces externos
 
 Enlaces que servirán al lector para ahondar más en los temas tocados.
 - [Spotify for developers](https://developer.spotify.com/documentation/web-api/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
+- [Streamlit]("https://streamlit.io/")
