@@ -3,10 +3,12 @@
 ## Equipo 2 
 
 <img src = 'the_formula_for_a_musical_hit.png'>
+
 ## Índice
 
 - [Introducción](#introduccion)
 - [Planteamiento](#planteamiento)
+- [Spotipy]("spotipy")
 - [Enlaces externos](#enlaces_externos)
 
 <a name="introduccion"></a>
@@ -17,7 +19,12 @@ Este proyecto de ciencia de datos se trabaja sobre datos de Spotify, con un enfo
 <a name="planteamiento"></a>
 ## Planteamiento
 
-> ¿De qué forma puede Spotify diferenciarse de su competencia siguiendo una estrategia basada en datos? En la actualidad, se estima que casi el 90% de los datos existentes en internet fueron creados en los últimos años, y de estos, gran parte permanecen sin ser analizados. se ha llegado a un punto tal que, los datos han sido catalogados como el petróleo del siglo XXI, resaltando las oportunidades que pueden obtenerse de su exploración. Para este proyecto, continuaremos centrándonos en la industria de streaming de música como se hizo en el módulo anterior, más específicamente, en Spotify, una de las empresas más resilientes ante la entrada de nuevos competidores y que, ante este panorama competitivo, se ha visto forzada a buscar nuevas formas de mantenerse en la punta de los ingresos generados en el sector.
+Esta es una propuesta para los servicios de streaming de música, para los compositores y en partícular para Spotify. La estrategia es para usarse en algoritmos de recomendación. Con base en las características de la canción se pretende predecir su éxito.
+
+<a name="spotipy"></a>
+## Spotipy y la API de Spotify
+
+Se usó la API que ofrece Spotify ya que es más complicado trabajar con los datos en crudo, con anterioridad se hizo el procesamiento hasta cierto punto. Para simplificas las solicitudes GET a la API de Spotify, nos apoyaremos en Spotipy, una librería que sirve de interfaz para el API. Ahora están en un repositorio de GitHub, dar clic [aquí](https://github.com/marioraulgz/SpotifyBEDU-LaRevancha/blob/main/Postworks/Datasets/data_delimited.csv).
 
 <a name="enlaces_externos"></a>
 ### Enlaces externos
